@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: covid
+    tables:
+      - name: stats
+      - name: population
