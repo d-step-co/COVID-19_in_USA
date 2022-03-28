@@ -11,7 +11,7 @@ create table demo.covid.stats
 create table demo.covid.population
 (
   state       	varchar(250)    	null
-, population	int 				null
+, population	int 			null
 );
 
 insert into demo.covid.population (state, population)
