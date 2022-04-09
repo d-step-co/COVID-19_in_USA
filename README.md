@@ -1,2 +1,2 @@
-### Project Infrastructure Diagram
-![plot](https://s770sas.storage.yandex.net/rdisk/05f43081d6dff5339b59dbcef8a472934a35b43a67cf1f6218c1c55c9da8199f/624dd50d/bjm_2JYksuDp6gs3xw1DyqylkZYin_VlP-Zk-TYNfw0jWnZHX72bILUyDoA2nd_OS9eDp6-m3NxAYfklMK5Mjw==?uid=196613797&filename=Scheme.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=196613797&fsize=1073753&hid=8c3fc42a5327a0de9108f9c23d50d133&media_type=image&tknv=v2&etag=62da51203566bd611b4912b0d3fe6165&rtoken=ROyed4WBOHLR&force_default=yes&ycrid=na-0831e6e2eb0165cb5bb3f6a635955709-downloader23h&ts=5dc0020259d40&s=b8fb68f89e93382f2803e227f2c1da11d8c8ce19170a6ea164a9d174987f63a5&pb=U2FsdGVkX19_ESYP6hcWRG4qb11S_IPNNa7v4Eazgs0uxcXJ9JV8QCxKwWeFsWyE3SzYGkHTrwI3mCW70aHEOZQPLSr3WxlqjKzHsYMe7VY)
+## Project Infrastructure Diagram
+![plot](https://live.staticflickr.com/65535/51992402024_3511efc117_b.jpg)
